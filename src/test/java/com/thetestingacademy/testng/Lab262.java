@@ -10,7 +10,7 @@ public class Lab262 {
         System.out.println("TC");
     }
     @Description("TC#1 - Verify Get Request 2")
-    @Test
+    @Test(enabled = false)
     public void getRequest2() {
         System.out.println("TC2");
     }
@@ -21,4 +21,5 @@ public class Lab262 {
 
 
     }
-}
+
+        }
