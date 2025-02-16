@@ -1,0 +1,1 @@
+{"uuid":"2afc37d3-aef1-4548-a34a-ec5b5ae6a47b","name":"Restful booker API Test Suite","children":["070709bc-3405-48ce-8aec-993dc2bae000"],"befores":[],"afters":[{"name":"emailToQALead","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1739603178246,"stop":1739603178250}],"start":1739603177616,"stop":1739603178252}
